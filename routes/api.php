@@ -17,5 +17,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::middleware('guest')->group(function () {
     Route::apiResource('/products', ProductController::class);
-    Route::apiResource('/discounts', DiscountController::class);
 });
