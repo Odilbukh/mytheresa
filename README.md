@@ -4,16 +4,16 @@ I have prepared a file .env and sqlite database to make it easy for you to run t
 
 1. Run the following commands to install and run the project
 
-`composer install`<br>
+`composer install`<br><br>
 2. To fill DB
 
-`php artisan db:seed`<br>
+`php artisan db:seed`<br><br>
 3. To run the project
 
-`php artisan serve`<br>
+`php artisan serve`<br><br>
 4. To run tests
 
-`php artisan test`<br>
+`php artisan test`<br><br>
 
 <h2>Endpoints</h2>
 
