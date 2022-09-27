@@ -48,3 +48,11 @@ Example: http://127.0.0.1:8000/api/products/?page=1&size=5&category=boots&priceL
            price (double like 150.00)<br>
            discount_id (integer, exists:discounts,id)<br><br>
 5. DELETE "api/products/{id}" - delete product<br>
+
+<h2>Screenshoots</h2>
+
+![image](https://user-images.githubusercontent.com/22895615/192474851-4325e0e2-4d51-4bbf-9f5c-e7c89475dc11.png)
+
+![image](https://user-images.githubusercontent.com/22895615/192474924-b84af331-5a63-4495-b1a8-fc379db45847.png)
+
+
